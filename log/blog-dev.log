@@ -1,0 +1,6 @@
+2020-09-14 04:53:37.263  INFO 8320 --- [Thread-23] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-09-14 04:53:37.347  INFO 8320 --- [Thread-23] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-14 04:53:37.353  INFO 8320 --- [Thread-23] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-09-14 04:53:37.365  INFO 8320 --- [Thread-23] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-09-14 04:53:37.952  INFO 8320 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication on 4J60006D43AHLEH with PID 8320 (D:\java\Blog\target\classes started by Administrator in D:\java\Blog)
+2020-09-14 04:53:37.952  INFO 8320 --- [restartedMain] com.example.demo.DemoApplication         : The following profiles are active: dev
